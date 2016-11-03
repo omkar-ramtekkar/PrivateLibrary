@@ -26,8 +26,8 @@
 
 /* Begin PBXFileReference section */
 		B6F9AB481DCAF1CA00A6F7C5 /* libPrivateLibrary.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPrivateLibrary.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		B6F9AB4B1DCAF1CA00A6F7C5 /* PrivateLibrary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrivateLibrary.h; sourceTree = "<group>"; };
-		B6F9AB4C1DCAF1CA00A6F7C5 /* PrivateLibrary.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PrivateLibrary.m; sourceTree = "<group>"; };
+		B6F9AB4B1DCAF1CA00A6F7C5 /* PrivateLibrary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = PrivateLibrary.h; path = Classes/PrivateLibrary.h; sourceTree = "<group>"; };
+		B6F9AB4C1DCAF1CA00A6F7C5 /* PrivateLibrary.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = PrivateLibrary.m; path = Classes/PrivateLibrary.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
